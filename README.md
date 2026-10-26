@@ -32,6 +32,6 @@ The model includes the following fact or transactional tables:
 - DAX measures organized in a dedicated measures table.
 - Region-based Row-Level Security using user identity and security mappings.
 
-**Model diagram:** See `Screenshots/data-model.png`.
+**Model diagram:** See `data-model.
 
-*Note: The table roles and relationship design should be validated against the final Power BI model before publication. The `security` and `_measures` tables are supporting tables rather than conventional business dimensions.*
+*Note: The `security` and `_measures` tables are supporting tables rather than conventional business dimensions.*
