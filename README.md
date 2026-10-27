@@ -1,4 +1,4 @@
-## Data Model Architecture
+## POWER BI DATA MODELLING PROJECT
 
 The project uses a multi-table analytical data model in Power BI to support sales reporting, customer analysis, product performance, inventory tracking, campaign analysis, and order-process monitoring.
 
